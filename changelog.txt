@@ -1,0 +1,30 @@
+=================
+Build a.0.4.7 - Direct Clone of Resonant Rise 4 with the addition of Sponge Forge.
+=================
+
+==Forge==
+    n/a
+
+==Core==
+    Songe Forge (1968-5.0.0-BETA-1489)
+
+==Optionals==
+    n/a
+
+--Client Only--
+    n/a
+
+--Server Only--
+    n/a
+
+==Removed==
+    n/a
+
+==Configs==
+    n/a
+
+==Misc.==
+    n/a
+
+-- Dev only --
+    n/a
