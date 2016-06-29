@@ -901,7 +901,7 @@
         
                 <mod name="SpongeForge" 
                      version="1.9.4-1968-5.0.0-BETA-1489" url="packs/ResonantRiseDev/files/4.x/spongeforge-1.9.4-1968-5.0.0-BETA-1489.jar" file="spongeforge-1.9.4-1968-5.0.0-BETA-1489.jar" md5="63da98130c5d5adec9f28e184d139bee" download="server" 
-                     type="mods" 
+                     type="mods" recommended="yes" server="yes" client="no"
                      website="https://www.spongepowered.org" 
                      authors="SpongePowered" 
                      description="The Sponge API Implementation" 
