@@ -1,4 +1,36 @@
 =================
+Build a.0.4.9
+=================
+
+==Forge==
+    n/a
+
+==Core==
+   n/a
+
+==Optionals==
+    n/a
+
+--Client Only--    
+    Removed sponge from client
+
+--Server Only--
+    Added sponge as server only
+
+==Removed==
+    n/a
+
+==Configs==
+    n/a
+
+==Misc.==
+    n/a
+
+-- Dev only --
+    n/a
+
+
+=================
 Build a.0.4.8
 =================
 
